@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": "2026-08-25T09:45:00",
+    "service": "payment-api",
+    "request_count": 1200,
+    "error_count": 18,
+    "error_rate": 0.015,
+    "latency_ms": 180
+  },
+  {
+    "timestamp": "2026-08-25T10:00:00",
+    "service": "payment-api",
+    "request_count": 1250,
+    "error_count": 22,
+    "error_rate": 0.018,
+    "latency_ms": 190
+  },
+  {
+    "timestamp": "2026-08-25T10:03:00",
+    "service": "payment-api",
+    "request_count": 1300,
+    "error_count": 180,
+    "error_rate": 0.138,
+    "latency_ms": 620
+  },
+  {
+    "timestamp": "2026-08-25T10:05:00",
+    "service": "payment-api",
+    "request_count": 1280,
+    "error_count": 540,
+    "error_rate": 0.422,
+    "latency_ms": 1840
+  },
+  {
+    "timestamp": "2026-08-25T10:10:00",
+    "service": "payment-api",
+    "request_count": 1270,
+    "error_count": 680,
+    "error_rate": 0.535,
+    "latency_ms": 2310
+  },
+  {
+    "timestamp": "2026-08-25T10:15:00",
+    "service": "payment-api",
+    "request_count": 1240,
+    "error_count": 710,
+    "error_rate": 0.573,
+    "latency_ms": 2480
+  }
+]

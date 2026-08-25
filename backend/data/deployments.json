@@ -1,0 +1,32 @@
+[
+  {
+    "version": "v2.3.8",
+    "service": "payment-api",
+    "timestamp": "2026-08-23T14:20:00",
+    "status": "successful"
+  },
+  {
+    "version": "v2.3.9",
+    "service": "payment-api",
+    "timestamp": "2026-08-24T11:10:00",
+    "status": "successful"
+  },
+  {
+    "version": "v2.4.0",
+    "service": "payment-api",
+    "timestamp": "2026-08-25T08:30:00",
+    "status": "successful"
+  },
+  {
+    "version": "v2.4.1",
+    "service": "payment-api",
+    "timestamp": "2026-08-25T10:01:00",
+    "status": "successful"
+  },
+  {
+    "version": "v1.8.2",
+    "service": "notification-service",
+    "timestamp": "2026-08-24T16:00:00",
+    "status": "successful"
+  }
+]

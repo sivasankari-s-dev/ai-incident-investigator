@@ -1,0 +1,27 @@
+[
+  {
+    "service": "payment-api",
+    "status": "degraded",
+    "dependencies": {
+      "database": "unhealthy",
+      "redis": "healthy",
+      "external-payment-provider": "healthy"
+    }
+  },
+  {
+    "service": "notification-service",
+    "status": "healthy",
+    "dependencies": {
+      "database": "healthy",
+      "redis": "healthy"
+    }
+  },
+  {
+    "service": "user-service",
+    "status": "healthy",
+    "dependencies": {
+      "database": "healthy",
+      "redis": "healthy"
+    }
+  }
+]

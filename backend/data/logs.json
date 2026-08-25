@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "2026-08-25T09:45:12",
+    "service": "payment-api",
+    "level": "INFO",
+    "message": "Payment API started successfully"
+  },
+  {
+    "timestamp": "2026-08-25T09:52:41",
+    "service": "payment-api",
+    "level": "INFO",
+    "message": "Payment request processed successfully"
+  },
+  {
+    "timestamp": "2026-08-25T10:01:03",
+    "service": "payment-api",
+    "level": "INFO",
+    "message": "Deployment v2.4.1 completed successfully"
+  },
+  {
+    "timestamp": "2026-08-25T10:02:18",
+    "service": "payment-api",
+    "level": "WARNING",
+    "message": "Database connection acquisition latency increased"
+  },
+  {
+    "timestamp": "2026-08-25T10:03:12",
+    "service": "payment-api",
+    "level": "ERROR",
+    "message": "Failed to acquire database connection"
+  },
+  {
+    "timestamp": "2026-08-25T10:03:19",
+    "service": "payment-api",
+    "level": "ERROR",
+    "message": "Payment request failed with HTTP 500"
+  },
+  {
+    "timestamp": "2026-08-25T10:04:02",
+    "service": "payment-api",
+    "level": "ERROR",
+    "message": "Failed to acquire database connection"
+  },
+  {
+    "timestamp": "2026-08-25T10:04:15",
+    "service": "payment-api",
+    "level": "ERROR",
+    "message": "Payment request failed with HTTP 500"
+  },
+  {
+    "timestamp": "2026-08-25T10:05:07",
+    "service": "payment-api",
+    "level": "ERROR",
+    "message": "Database connection pool exhausted"
+  },
+  {
+    "timestamp": "2026-08-25T10:05:21",
+    "service": "payment-api",
+    "level": "ERROR",
+    "message": "Payment request failed with HTTP 500"
+  },
+  {
+    "timestamp": "2026-08-25T10:07:34",
+    "service": "payment-api",
+    "level": "ERROR",
+    "message": "Database connection acquisition timeout"
+  },
+  {
+    "timestamp": "2026-08-25T10:10:01",
+    "service": "payment-api",
+    "level": "ERROR",
+    "message": "Database connection pool exhausted"
+  },
+  {
+    "timestamp": "2026-08-25T10:12:45",
+    "service": "payment-api",
+    "level": "WARNING",
+    "message": "Payment API request latency above threshold"
+  },
+  {
+    "timestamp": "2026-08-25T10:15:00",
+    "service": "payment-api",
+    "level": "ERROR",
+    "message": "Payment request failed with HTTP 500"
+  },
+  {
+    "timestamp": "2026-08-25T10:15:14",
+    "service": "notification-service",
+    "level": "INFO",
+    "message": "Notification delivery completed successfully"
+  },
+  {
+    "timestamp": "2026-08-25T10:16:02",
+    "service": "payment-api",
+    "level": "ERROR",
+    "message": "Failed to acquire database connection"
+  }
+]
